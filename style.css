@@ -3,12 +3,12 @@
 	padding: 7px;
 	color: black;
 	position: relative;
-	left: 80%;
+	left: 90%;
 }
 
 .navlink img[src]{
 	position: relative;
-	left: 80%;
+	left: 90%;
 	padding-left: 7px;
 	padding-top: 10px;
 }
@@ -40,4 +40,35 @@
 	padding: 7px;
 	width: 15%;
 	margin-top: 10px;
+}
+
+.footer{
+	bottom: 0;
+	position: fixed;
+	display: inline;
+}
+
+.rtext a{
+	text-decoration: none;
+	padding: 7px;
+	color: black;
+	position: relative;
+	bottom: 0;
+}
+
+.ltext a{
+	text-decoration: none;
+	padding: 7px;
+	color: black;
+	position: relative;
+	bottom: 0;
+}
+
+.rtext{
+	float: right;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 0px;
+	margin-right: 10px;
 }
