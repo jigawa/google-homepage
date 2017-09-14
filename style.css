@@ -1,0 +1,43 @@
+.navlink a{
+	text-decoration: none;
+	padding: 7px;
+	color: black;
+	position: relative;
+	left: 80%;
+}
+
+.navlink img[src]{
+	position: relative;
+	left: 80%;
+	padding-left: 7px;
+	padding-top: 10px;
+}
+
+#google{
+	margin: auto;
+	display: block;
+	height: 325px;
+	width: 325px;
+	padding-top: 150px;
+}
+
+.gsearch{
+	margin-top: -55px;
+	display: block;
+	text-align: center;
+}
+
+.search{
+	padding-left: 10px;
+	padding-right: 20px;
+	height: 35px;
+	font-size: 14px;
+	margin: auto;
+	width: 40%;
+}
+
+.searchbtn, .luckybtn{
+	padding: 7px;
+	width: 15%;
+	margin-top: 10px;
+}
